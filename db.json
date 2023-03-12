@@ -1,0 +1,45 @@
+{
+    "cars": [
+      {
+        "brand": "Suzuki",
+        "type": "auto",
+        "year": 2022,
+        "kms": 2000,
+        "Description": "ew",
+        "Price": 5000000,
+        "id": 3,
+        "price": "650000"
+      },
+      {
+        "brand": "Mahendra",
+        "type": "auto",
+        "year": 2019,
+        "kms": 200,
+        "Description": "kj",
+        "Price": 87000000,
+        "id": 6
+      }
+    ],
+    "wishlisted_cars": [
+      {
+        "id": 2,
+        "brand": "Tata",
+        "type": "AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 800000,
+        "price": null
+      },
+      {
+        "brand": "Suzuki",
+        "type": "auto",
+        "year": 2022,
+        "kms": 2000,
+        "Description": "ew",
+        "Price": 5000000,
+        "id": 3,
+        "price": "2000000000"
+      }
+    ]
+  }
